@@ -1,8 +1,8 @@
 {
-  "言語": "日本語",
+  "language": "日本語",
   "startmenu.new_game": "新規ゲーム",
   "startmenu.multiplayer": "マルチプレイ",
-  "startmenu.resume_game": "RESUME GAME",
+  "startmenu.resume_game": "続きから",
   "startmenu.settings": "Settings",
   "startmenu.high_score": "High Score",
   "startmenu.throne_room": "Throne Room",
